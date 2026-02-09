@@ -16,6 +16,12 @@ import SwiftUI
 
 // Encapsulates mapping between EventKit's 1-9 priority scale and app semantics.
 enum ReminderPriority {
+    
+    case high       // Priority 1-4 in EventKit
+    case medium     // Priority 5 in EventKit
+    case low        // Priority 6-9 in EventKit
+    case none       // Priority 0 in EventKit
+    
     // Create from EventKit's numeric priority.
     init(rawPriority: Int) {
         switch rawPriority {
