@@ -17,9 +17,9 @@ This project integrates with the native iOS Reminders app via `EventKit`. It sho
 
 ## 📺 Watch on YouTube
 
-> 📺 **[Watch the tutorial on YouTube](https://www.youtube.com/@NoahDoesCoding97)** — subscribe for weekly SwiftUI content.
->
-> ⚠️ *Direct video link coming soon.*
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/T5ftEqlVGC0)
+
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97). Subscribe for weekly SwiftUI tutorials.
 
 ---
 
@@ -56,3 +56,5 @@ Reminders access requires accepting the permission prompt on first launch.
 - Xcode 15+
 - iOS 17+
 - No third-party dependencies
+
+📺 [Watch the guide on YouTube](https://youtu.be/T5ftEqlVGC0)
